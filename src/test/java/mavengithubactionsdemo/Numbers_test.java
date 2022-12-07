@@ -30,7 +30,7 @@ public class Numbers_test {
 				//the console
 				App.main(null); //call main in the App file
 				//check if the output is "Hello ATU!" and a new line. 
-				assertEquals("smalles" + System.getProperty("line.separator"),outContent.toString());
+				assertEquals("smallest" + System.getProperty("line.separator"),outContent.toString());
 
 	}
 
